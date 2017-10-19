@@ -25,3 +25,5 @@ mysqlMiMa.txt
 123445.txt
 *.gitignore
 
+/.project
+/password.txt
